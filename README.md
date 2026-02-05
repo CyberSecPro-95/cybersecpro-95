@@ -40,13 +40,14 @@ A results-driven Penetration Tester with a focus on high-severity exploit discov
 ---
 
 ## 🛠️ Technical Arsenal
-*   **Languages:** Python,Kotlin,Javascript,Bash, Flutter.
+*   **Languages:** Python+(PYqt6),Bash,Javascript,Dart(Flutter),Kotlin.
 *   **Methodologies:** Red Team Ops, CVSS v3.1 Scoring, Threat Modeling, Mitre ATT&CK.
 *   **Interests:** Automotive Pentesting, ECU Security, Connected Infrastructure.
 
 ---
 
 ## 🌐 Professional Links
-[LinkedIn](https://www.linkedin.com) | [CyberSecOrg](https://cybersecorg.org)
+[LinkedIn](https://www.linkedin.com/in/aryan-akbar-joyia/) | [CyberSecOrg]([https://cybersecorg.org](https://www.linkedin.com/company/cybersecorg/))
 
 *"Turning complex vulnerabilities into actionable security intelligence."*
+
