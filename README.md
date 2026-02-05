@@ -47,7 +47,8 @@ A results-driven Penetration Tester with a focus on high-severity exploit discov
 ---
 
 ## 🌐 Professional Links
-[LinkedIn](https://www.linkedin.com/in/aryan-akbar-joyia/) | [CyberSecOrg]([https://cybersecorg.org](https://www.linkedin.com/company/cybersecorg/))
+[LinkedIn](https://www.linkedin.com/in/aryan-akbar-joyia/) | [CyberSecOrg](https://www.linkedin.com/company/cybersecorg/)
 
 *"Turning complex vulnerabilities into actionable security intelligence."*
+
 
